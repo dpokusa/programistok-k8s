@@ -81,4 +81,4 @@ Jeśli przeszedłeś przez artykuł z wyższego linka to masz już skonfugurowan
 
 ## Zaczynamy!
 
-Materiały pojawią się w tym repozytorium bezpośrednio przed rozpoczęciem warsztatów ;)
+Materiały znajdują się w katalogu workshop!
